@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Instagram Conversion Rate Calculator</title>
+    <!-- Add CSS and JavaScript file references here -->
+</head>
+<body>
+    <header>
+        <!-- Add header content here -->
+    </header>
+    <main>
+        <section id="authentication">
+            <!-- Add authentication form here -->
+        </section>
+        <section id="conversion-rate">
+            <!-- Add conversion rate calculation form and results here -->
+        </section>
+        <section id="sponsor-profit">
+            <!-- Add sponsorship details form and profit estimation here -->
+        </section>
+        <section id="reporting-analytics">
+            <!-- Add reporting and analytics section here -->
+        </section>
+    </main>
+    <footer>
+        <!-- Add footer content here -->
+    </footer>
+</body>
+</html>
